@@ -1,6 +1,8 @@
-
+![Avatar](avatar.jpg)
 
 # Quien Soy 👋
+
+![Logo](./logo.png)
 
 Me llamo Sergio Carlos Orozco Torres.
 
@@ -23,6 +25,8 @@ En Medellín he tenido el placer de usar el sistema de bicicletas publicas [EnCi
 
 - [Python Barranquilla](https://pybaq.co/)
 - [NodeCO](https://www.meetup.com/es-ES/node_co/)
+
+![Paseo por avenida el rio Barranquilla](./av_rio.jpg)
 
 <!--
 **Scot3004/Scot3004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
