@@ -25,6 +25,8 @@ En Medellín he tenido el placer de usar el sistema de bicicletas publicas [EnCi
 - [Python Barranquilla](https://pybaq.co/)
 - [NodeCO](https://www.meetup.com/es-ES/node_co/)
 
+https://github-readme-stats.vercel.app/api?username=scot3004&show_icons=true
+
 ![Paseo por avenida el rio Barranquilla](https://raw.githubusercontent.com/Scot3004/Scot3004/master/av_rio.jpg)
 
 <!--
