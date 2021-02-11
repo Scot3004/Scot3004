@@ -1,7 +1,8 @@
 
 # Quien Soy 👋
-
-![Avatar](https://raw.githubusercontent.com/Scot3004/Scot3004/master/avatar.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Scot3004/Scot3004/master/avatar.jpg" alt="Avatar">
+</p>
 
 Me llamo Sergio Carlos Orozco Torres.
 
